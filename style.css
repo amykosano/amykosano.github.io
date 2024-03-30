@@ -1,0 +1,15 @@
+
+body {background-color:#ff98eb;}
+body {background-image: url('myBackground.jpg')}
+
+#navtable{width:1024px;background-color:#ff98eb;border-spacing:0px;}
+#nav-td{text-align:center;background-color:#ff98eb;}
+#myB{text-align:center;width:1024px}
+
+#p-td{text-align:center;border-spacing:4px;}
+#p-td{color:rgb(0.0.0);}
+#p-table{width:1024px;text-align:center;background-color:#ff98eb;}
+
+#h1-td{width:1024px;text-align:center;border-spacing:0px;}
+#h1-td{color:rgb(0,0,0);
+#h1-table{background-color:#ff98eb;}
