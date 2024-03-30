@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <title>Organizations</title>
+    <link rel="stylesheet"type="text/css"href="style.css">
+   <center>
+   </head>
+  
+    <body>
+      <img id= "myB"src="myBanner.jpg"alt="Amy Kosanovong's Website" height="300"width="1024">
+      <table id="navtable">
+        <tr>
+          <td id="nav-td"> <a href="index.html"><img src="home.png"alt="homepage"height="40px"> </a> </td>
+          <td id="nav-td"> <a href="videos.html"> <img src="videos.png"alt="videos"height="40px"> </a> </td>
+          <td id="nav-td"> <a href="photos.html"> <img src="photos.png"alt="photos"height="40px"> </a> </td>
+          <td id="nav-td"> <a href="merch.html"> <img src="merch.png"alt="merchs"height="40px"> </a> </td>
+          <td id="nav-td"> <a href="organizations.html"> <img src="organizations.png"alt="organizations"height="40px"> </a> </td>
+          <td id="nav-td"> <a href="about.html"> <img src="aboutme.png"alt="about"height="40px"> </td>
+        </tr>
+      </table>
+      <table id="h1-table">
+        <thead>
+        <tr>
+          <th>
+      <h1 id="h1-td">
+        <h1 style="font-family:'Courier New'">Organizations I Support</h1> </th> </tr> </thead>
+        </table>
+        <table id="p-table">
+       <p id="p-td"> <tbody> <tr> <td>
+         <strong> <p style="font-family:'Courier New'">I support the Talent Development program, as well as Onward We Learn of Rhode Island.
+           </p> </strong> </td> <tr> </tbody> </table>
+      <h2><a href="https://www.khanacademy.org/computer-programming/kosanovong_follow/5848669069295616">Kosanovong Follow</a></h2><img src="kosanovong_follow.png"alt="Kosanovong Follow" height="400">
+</center>
+  </body>
+      
+</html>
